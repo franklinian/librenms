@@ -25,7 +25,7 @@ Any issues with these images should be reported via [Github](https://github.com/
 
 ### Features
 
-  - Oxidized install but not configured
+  - Oxidized installed but not configured
   - Weathermap plugin enabled
   - Billing enabled
   - RRDCached enabled
